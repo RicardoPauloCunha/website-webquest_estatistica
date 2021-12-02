@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
 
-import { SectionItem } from './styles';
+import { SectionItem } from '../styles/home';
 
 import imgStatistic from '../assets/statistic.jpg';
 import imgProbability from '../assets/probability.jpg';

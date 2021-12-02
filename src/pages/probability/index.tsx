@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 
-import { SectionVideos } from '../statistic/styles';
+import { SectionVideos } from '../../styles/default';
 
 const Probability = () => {
     return (
