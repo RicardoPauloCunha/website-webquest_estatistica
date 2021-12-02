@@ -58,4 +58,16 @@ export const SectionItem = styled.section`
             text-decoration: underline;
         }
     }
+
+    @media(max-width: 768px) {
+        flex-direction: column;
+
+        figure {
+            width: 100%;
+        }
+
+        &:last-of-type {
+            flex-direction: column-reverse;
+        }
+    }
 `

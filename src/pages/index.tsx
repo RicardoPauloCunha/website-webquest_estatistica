@@ -29,7 +29,7 @@ const Home: React.FC = () => {
 
                 <div>
                     <h2>Vídeos estatística</h2>
-                    <p>Vídeos sobre cálculos referentes a área de estatísticas, como:</p>
+                    <p>Vídeoaulas sobre cálculos de estatísticas.</p>
                     <ul>
                         <li>Formula de Sturges</li>
                         <li>Distribuição de frequência</li>
@@ -47,7 +47,7 @@ const Home: React.FC = () => {
             <SectionItem>
                 <div>
                     <h2>Vídeos probabilidade</h2>
-                    <p>Vídeos sobre cálculos referentes a área de probabilidade, como:</p>
+                    <p>Vídeoaulas sobre cálculos de probabilidade.</p>
                     <ul>
                         <li>Eventos equiprováveis</li>
                         <li>Probabilidade condicional</li>

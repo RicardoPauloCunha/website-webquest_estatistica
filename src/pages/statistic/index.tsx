@@ -10,8 +10,10 @@ const Statistic = () => {
                 <title>Estatística</title>
             </Head>
 
-            <h1>Vídeos estatística</h1>
-            <p>Vídeos sobre cálculos referentes a área de estatísticas.</p>
+            <h1>Vídeos de estatística</h1>
+            <p>A estatística descritiva é uma área da estatística que aplica várias técnicas para descrever e resumir qualquer conjunto de dados e estuda o comportamento geral dos dados observados, de forma a facilitar a resolução de problemas.</p>
+            <p>Logo abaixo estão alguns vídeos explicando como realizar os principais cálculos de estatítica.</p>
+            <br />
 
             <article>
                 <h3>Distribuição de frequência com classes - Regra de Sturges</h3>

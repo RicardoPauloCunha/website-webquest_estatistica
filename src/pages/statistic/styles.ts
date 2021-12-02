@@ -18,11 +18,13 @@ export const SectionVideos = styled.section`
         }
 
         >div {
+            background: ${props => props.theme.colors.backgroundSecondary};
             margin: 0 auto;
             position: relative;
             overflow: hidden;
             width: 70%;
             padding-top: 39%;
+            border-radius: 0.5rem;
 
             >iframe {
                 position: absolute;
@@ -32,6 +34,19 @@ export const SectionVideos = styled.section`
                 right: 0;
                 width: 100%;
                 height: 100%;
+                border: none;
+                border-radius: 0.5rem;
+            }
+        }
+    }
+
+    @media(max-width: 768px) {
+        width: 90%;
+
+        article {
+            >div {
+                width: 100%;
+                padding-top: 57%;
             }
         }
     }

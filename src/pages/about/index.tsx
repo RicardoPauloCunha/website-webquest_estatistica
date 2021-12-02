@@ -9,7 +9,7 @@ const About = () => {
             </Head>
 
             <h1>Sobre</h1>
-            <p>Esse trabalho realizado tem o objetivo de disponibilizar vídeos aulas sobre os temas apresentados durante as aulas, para servir de referência e material de estudo. Sendo uma atividade complementar da disciplina de Estatística da Fatec de Carapicuíba, ministrada pelo professor Luciano Condori.</p>
+            <p>Esse trabalho realizado tem o objetivo de disponibilizar vídeoaulas sobre os temas apresentados durante as aulas, para servir de referência e material de estudo. Sendo uma atividade complementar da disciplina de Estatística Aplicada da Fatec de Carapicuíba, ministrada pelo professor Luciano Condori.</p>
 
             <h2>Autor</h2>
             <strong>Nome</strong>

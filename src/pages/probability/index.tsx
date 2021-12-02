@@ -10,8 +10,10 @@ const Probability = () => {
                 <title>Probabilidade</title>
             </Head>
 
-            <h1>Vídeos probabilidade</h1>
-            <p>Vídeos sobre cálculos referentes a área de probabilidade.</p>
+            <h1>Vídeos de probabilidade</h1>
+            <p>A probabilidade é o campo da Matemática que estuda experimentos ou fenômenos aleatórios e através dela é possível analisar as chances de um determinado evento ocorrer.</p>
+            <p>Logo abaixo estão alguns vídeos explicando como realizar os principais cálculos de probabilidade.</p>
+            <br />
 
             <article>
                 <h3>Probabilidade em espaços amostrais não equiprováveis</h3>

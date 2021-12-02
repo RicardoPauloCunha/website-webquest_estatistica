@@ -25,4 +25,22 @@ export const FooterEl = styled.footer`
             font-size: 1.5rem;
         }
     }
+
+    @media(max-width: 768px) {
+        margin-top: 3rem;
+    }
+
+    @media(max-width: 510px) {
+        margin-top: 2rem;
+
+        >small {
+            >span:first-of-type {
+                font-size: 0.7rem;
+            }
+    
+            >span:last-of-type {
+                font-size: 1.2rem;
+            }
+        }
+    }
 `;
